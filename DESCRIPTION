@@ -1,0 +1,10 @@
+Package: InternshipRPackage
+Type: Package
+Title: WGCNA on RNA-Sequencing Data of on Liver and Intestinal Cell Lines Treated with Remdesivir and Hydroxychloroquine
+Version: 0.1.0
+Author: Anna Greene
+Maintainer: <annagreene@usf.edu>
+Description: WGCNA analysis on RNA-sequencing data of on liver and intestinal cell lines treated with Remdesivir and Hydroxychloroquine (GSE154936) using an R software package. This process involved data input and cleaning, network construction, module detection, calculation of paired t-tests, and exporting the data to an external visualization software.
+License: CC0
+Encoding: UTF-8
+LazyData: true
